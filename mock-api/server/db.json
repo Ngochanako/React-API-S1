@@ -1,0 +1,84 @@
+{
+  "post": [
+    {
+      "id": 2,
+      "title": "Toán học",
+      "content": "auegrugrugir",
+      "thumbnail": "https://d1hjkbq40fs2x4.cloudfront.net/2016-01-31/files/1045.jpg",
+      "create_at": "01/01/2000",
+      "create_by": "abc",
+      "comments": [
+        {
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Sử học",
+      "content": "auegrugrugir",
+      "thumbnail": "https://d1hjkbq40fs2x4.cloudfront.net/2016-01-31/files/1045.jpg",
+      "create_at": "01/01/2000",
+      "create_by": "abc",
+      "comments": [
+        {
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Tin học",
+      "content": "auegrugrugir",
+      "thumbnail": "https://d1hjkbq40fs2x4.cloudfront.net/2016-01-31/files/1045.jpg",
+      "create_at": "01/01/2000",
+      "create_by": "NNN",
+      "comments": []
+    },
+    {
+      "title": "hhhhh",
+      "content": "auegrugrugir",
+      "thumbnail": "https://d1hjkbq40fs2x4.cloudfront.net/2016-01-31/files/1045.jpg",
+      "create_at": "01/01/2000",
+      "create_by": "NNi",
+      "comments": [],
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "title": "Sinh học",
+      "content": "auegrugrugir",
+      "thumbnail": "https://d1hjkbq40fs2x4.cloudfront.net/2016-01-31/files/1045.jpg",
+      "create_at": "01/01/2000",
+      "create_by": "abc",
+      "comments": [
+        {
+          "id": 3
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "create_at": "02/01/2000",
+      "create_by": "kkkk",
+      "content": "hay"
+    },
+    {
+      "id": 2,
+      "create_at": "02/01/2000",
+      "create_by": "kkkk",
+      "content": "dở"
+    },
+    {
+      "id": 3,
+      "create_at": "02/01/2000",
+      "create_by": "kkkk",
+      "content": "huhu"
+    }
+  ]
+}
